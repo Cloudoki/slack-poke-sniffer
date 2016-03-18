@@ -1,0 +1,18 @@
+{
+  "name": "pokesniffer",
+  "version": "1.0.0",
+  "description": "Sniff poke messages from slack and buzzzzzzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Malta",
+  "license": "GPL-3",
+  "dependencies": {
+    "async": "^1.5.2",
+    "leveldown": "^1.4.4",
+    "levelup": "^1.3.1",
+    "slack-node": "^0.2.0",
+    "winston": "^2.2.0"
+  }
+}
